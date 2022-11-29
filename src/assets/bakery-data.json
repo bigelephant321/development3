@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Chocolate Chip Cookies",
+      "description": "Four classic chocolate chip cookies",
+      "filters": "Customer Favorite & Nut Free",
+      "price": 7.99,
+      "image": "images/anika.png",
+      "value": "nf"
+    },
+    {
+      "name": "Matcha Mille Crepe Cake",
+      "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+      "filters": "",
+      "price": 4.99,
+      "image": "images/aubrey.png",
+      "value": "none"
+    },
+    {
+      "name": "Egg Custard Bun",
+      "description": "A fluffy steamed bun with a savory egg filling",
+      "filters": "Customer Favorite",
+      "price": 2.99,
+      "image": "images/connie.png",
+      "value": "f"
+    },
+    {
+      "name": "Steamed Taro Buns",
+      "description": "Two soft steamed buns filled with gooey purple taro filling",
+      "filters": "Customer Favorite",
+      "price": 5.99,
+      "image": "images/dylan.png",
+      "value": "f"
+    },
+    {
+      "name": "Chocolate Fudge Brownie",
+      "description": "A rich fudge brownie drizzled with chocolate ganache",
+      "filters": "",
+      "price": 3.99,
+      "image": "images/isaac.png",
+      "value": "none"
+    },
+    {
+      "name": "Macarons",
+      "description": "A box of three macarons in assorted flavors",
+      "filters": "Nut Free",
+      "price": 4.99,
+      "image": "images/jeff.png",
+      "value": "n"
+    },
+    {
+      "name": "Multigrain Bread",
+      "description": "A loaf of fresh-baked multigrain bread",
+      "filters": "",
+      "price": 4.99,
+      "image": "images/jenny.png",
+      "value": "none"
+    },
+    {
+      "name": "Croissant",
+      "description": "A classic butter croissant with a flaky crust",
+      "filters": "Nut Free",
+      "price": 2.99,
+      "image": "images/jessie.png",
+      "value": "n"
+    },
+    {
+      "name": "Toast with Butter",
+      "description": "A slice of toast with a pat of butter",
+      "filters": "Customer Favorite",
+      "price": 1.99,
+      "image": "images/kelly.png",
+      "value": "f"
+    },
+    {
+      "name": "Tiramisu",
+      "description": "A classic tiramisu",
+      "filters": "Customer Favorite & Nut Free",
+      "price": 3.99,
+      "image": "images/lauren.png",
+      "value": "nf"
+    },
+    {
+      "name": "Egg Tart",
+      "description": "A flaky pastry shell filled with a sweet egg custard",
+      "filters": "",
+      "price": 2.99,
+      "image": "images/melissa.png",
+      "value": "none"
+    },
+    {
+      "name": "Everything Bagel",
+      "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+      "filters": "",
+      "price": 2.99,
+      "image": "images/miku.png",
+      "value": "none"
+    },
+    {
+      "name": "Gingerbread Man",
+      "description": "A soft gingerbread cookie with a sweet icing glaze",
+      "filters": "Customer Favorite",
+      "price": 2.99,
+      "image": "images/nick.png",
+      "value": "f"
+    },
+    {
+      "name": "Cheesecake",
+      "description": "A slice of classic New York cheesecake topped with strawberry",
+      "filters": "Nut Free",
+      "price": 3.99,
+      "image": "images/sunny.png",
+      "value": "n"
+    },
+    {
+      "name": "Cream Puff",
+      "description": "Light and airy pâte à choux filled with sweet whipped cream",
+      "filters": "",
+      "price": 2.99,
+      "image": "images/tongyu.png",
+      "value": "none"
+    }
+  ]
+  

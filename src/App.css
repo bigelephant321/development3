@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,6 +26,22 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.card-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card {
+  background-color: #58698b;
+  background-size: auto;
+  width: 250px;
+  height: 450px;
+  flex: auto;
+  border-radius: 10px;
 }
 
 @keyframes App-logo-spin {
