@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://bigelephant321.github.io/development`
+If you used the stencil code, this is `https://bigelephant321.github.io/development3`
 
 ### Goal and Value of the Application
 The goal of this application is to model a web page that bakery customers could use to check
